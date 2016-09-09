@@ -6,4 +6,4 @@ Used HTML, CSS, JavaScript basics
 Members:
 Alison Wu, Trent You, Adi Kamath, Crystal Song
 
-http://mrpandawu.github.io/NoWineing/
+http://alisonrwu.github.io/NoWineing/
